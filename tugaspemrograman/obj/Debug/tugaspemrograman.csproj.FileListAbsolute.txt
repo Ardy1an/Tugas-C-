@@ -1,0 +1,8 @@
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\bin\Debug\tugaspemrograman.exe.config
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\bin\Debug\tugaspemrograman.exe
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\bin\Debug\tugaspemrograman.pdb
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\obj\Debug\tugaspemrograman.csproj.AssemblyReference.cache
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\obj\Debug\tugaspemrograman.csproj.SuggestedBindingRedirects.cache
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\obj\Debug\tugaspemrograman.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\obj\Debug\tugaspemrograman.exe
+D:\Tugas\Semester 2\C#\tugaspemrograman\tugaspemrograman\obj\Debug\tugaspemrograman.pdb
